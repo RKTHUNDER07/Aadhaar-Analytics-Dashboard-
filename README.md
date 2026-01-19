@@ -1,4 +1,4 @@
-<img width="1896" height="913" alt="image" src="https://github.com/user-attachments/assets/1e69e069-3a7a-4312-8493-20513d033ece" /># [UIDAI Aadhaar Analytical DashBoard]
+# [UIDAI Aadhaar Analytical DashBoard]
 
 <img width="1896" height="913" alt="image" src="https://github.com/user-attachments/assets/5b584cdc-316a-4810-a0c3-bd20844da090" />
 
@@ -81,9 +81,3 @@ material-dashboard-react
     └── README.md
 ```
 
-
-Dribbble: <https://dribbble.com/creativetim>
-
-Google+: <https://plus.google.com/+CreativetimPage>
-
-Instagram: <https://instagram.com/creativetimofficial>
