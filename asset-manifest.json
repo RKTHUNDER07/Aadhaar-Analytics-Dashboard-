@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/Aadhaar-Analytics-Dashboard-/static/js/main.54ee3210.js",
+    "main.js": "/Aadhaar-Analytics-Dashboard-/static/js/main.dda85d2f.js",
     "static/media/pattern-tree.svg": "/Aadhaar-Analytics-Dashboard-/static/media/pattern-tree.431da656681abcdffac51bee04d7f581.svg",
     "static/media/home-decor-3.jpg": "/Aadhaar-Analytics-Dashboard-/static/media/home-decor-3.74d13fcbd3c631fc7908.jpg",
     "static/media/home-decor-2.jpg": "/Aadhaar-Analytics-Dashboard-/static/media/home-decor-2.b4e5397c9846645ba275.jpg",
@@ -29,9 +29,9 @@
     "static/media/logo-atlassian.svg": "/Aadhaar-Analytics-Dashboard-/static/media/logo-atlassian.d92c4f81bb3efbf288b3ef71ce2fbfb0.svg",
     "static/media/logo-asana.svg": "/Aadhaar-Analytics-Dashboard-/static/media/logo-asana.5c9ced4f9006cfb2d4c10f905cf6d310.svg",
     "index.html": "/Aadhaar-Analytics-Dashboard-/index.html",
-    "main.54ee3210.js.map": "/Aadhaar-Analytics-Dashboard-/static/js/main.54ee3210.js.map"
+    "main.dda85d2f.js.map": "/Aadhaar-Analytics-Dashboard-/static/js/main.dda85d2f.js.map"
   },
   "entrypoints": [
-    "static/js/main.54ee3210.js"
+    "static/js/main.dda85d2f.js"
   ]
 }
