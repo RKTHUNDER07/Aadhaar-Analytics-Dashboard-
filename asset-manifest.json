@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/Aadhaar-Analytics-Dashboard-/static/js/main.1c07ce63.js",
+    "main.js": "/Aadhaar-Analytics-Dashboard-/static/js/main.7a6972b6.js",
     "static/media/pattern-tree.svg": "/Aadhaar-Analytics-Dashboard-/static/media/pattern-tree.431da656681abcdffac51bee04d7f581.svg",
     "static/media/home-decor-3.jpg": "/Aadhaar-Analytics-Dashboard-/static/media/home-decor-3.74d13fcbd3c631fc7908.jpg",
     "static/media/home-decor-2.jpg": "/Aadhaar-Analytics-Dashboard-/static/media/home-decor-2.b4e5397c9846645ba275.jpg",
@@ -8,7 +8,7 @@
     "static/media/bg-sign-in-basic.jpeg": "/Aadhaar-Analytics-Dashboard-/static/media/bg-sign-in-basic.f327db1d0e4b00ba3c81.jpeg",
     "static/media/bg-profile.jpeg": "/Aadhaar-Analytics-Dashboard-/static/media/bg-profile.af1219a742e09fc7b612.jpeg",
     "static/media/bg-sign-up-cover.jpeg": "/Aadhaar-Analytics-Dashboard-/static/media/bg-sign-up-cover.30c5950b22e74f0d82ba.jpeg",
-    "static/media/aadhaar_enrolment_map.jpeg": "/Aadhaar-Analytics-Dashboard-/static/media/aadhaar_enrolment_map.e66cd658464231e3db9c.jpeg",
+    "static/media/aadhaar_enrolment_map_2.jpeg": "/Aadhaar-Analytics-Dashboard-/static/media/aadhaar_enrolment_map_2.aeab4abbbaee47324da1.jpeg",
     "static/media/home-decor-4.jpeg": "/Aadhaar-Analytics-Dashboard-/static/media/home-decor-4.5b448fd339a14695f6aa.jpeg",
     "static/media/visa.png": "/Aadhaar-Analytics-Dashboard-/static/media/visa.71c0d5e9e2aaee42e4c3.png",
     "static/media/mastercard.png": "/Aadhaar-Analytics-Dashboard-/static/media/mastercard.27fca3e7637a9458fb64.png",
@@ -29,9 +29,9 @@
     "static/media/logo-atlassian.svg": "/Aadhaar-Analytics-Dashboard-/static/media/logo-atlassian.d92c4f81bb3efbf288b3ef71ce2fbfb0.svg",
     "static/media/logo-asana.svg": "/Aadhaar-Analytics-Dashboard-/static/media/logo-asana.5c9ced4f9006cfb2d4c10f905cf6d310.svg",
     "index.html": "/Aadhaar-Analytics-Dashboard-/index.html",
-    "main.1c07ce63.js.map": "/Aadhaar-Analytics-Dashboard-/static/js/main.1c07ce63.js.map"
+    "main.7a6972b6.js.map": "/Aadhaar-Analytics-Dashboard-/static/js/main.7a6972b6.js.map"
   },
   "entrypoints": [
-    "static/js/main.1c07ce63.js"
+    "static/js/main.7a6972b6.js"
   ]
 }
