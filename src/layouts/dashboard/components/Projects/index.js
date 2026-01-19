@@ -14,7 +14,7 @@ Coded by www.creative-tim.com
 */
 
 // import { useState } from "react";
-import aadhaarMap from "assets/images/maps/aadhaar_enrolment_map.jpeg";
+import aadhaarMap from "assets/images/maps/aadhaar_enrolment_map_2.jpeg";
 
 // @mui material components
 import Card from "@mui/material/Card";
