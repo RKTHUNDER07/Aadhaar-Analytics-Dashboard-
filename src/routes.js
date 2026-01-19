@@ -59,26 +59,26 @@ const routes = [
   },
   {
     type: "collapse",
-    name: "Tables",
+    name: "Reports",
     key: "tables",
     icon: <Icon fontSize="small">table_view</Icon>,
-    route: "/tables",
+    route: "/dashboard",
     component: <Tables />,
   },
   {
     type: "collapse",
-    name: "Billing",
+    name: "Schemes",
     key: "billing",
     icon: <Icon fontSize="small">receipt_long</Icon>,
-    route: "/billing",
+    route: "/dashboard",
     component: <Billing />,
   },
   {
     type: "collapse",
-    name: "RTL",
+    name: "Category",
     key: "rtl",
     icon: <Icon fontSize="small">format_textdirection_r_to_l</Icon>,
-    route: "/rtl",
+    route: "/dashboard",
     component: <RTL />,
   },
   {
@@ -86,7 +86,7 @@ const routes = [
     name: "Notifications",
     key: "notifications",
     icon: <Icon fontSize="small">notifications</Icon>,
-    route: "/notifications",
+    route: "/dashboard",
     component: <Notifications />,
   },
   {
@@ -94,7 +94,7 @@ const routes = [
     name: "Profile",
     key: "profile",
     icon: <Icon fontSize="small">person</Icon>,
-    route: "/profile",
+    route: "/dashboard",
     component: <Profile />,
   },
   {
@@ -102,7 +102,7 @@ const routes = [
     name: "Sign In",
     key: "sign-in",
     icon: <Icon fontSize="small">login</Icon>,
-    route: "/authentication/sign-in",
+    route: "/dashboard",
     component: <SignIn />,
   },
   {
@@ -110,7 +110,7 @@ const routes = [
     name: "Sign Up",
     key: "sign-up",
     icon: <Icon fontSize="small">assignment</Icon>,
-    route: "/authentication/sign-up",
+    route: "/dashboard",
     component: <SignUp />,
   },
 ];
