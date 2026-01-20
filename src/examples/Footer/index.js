@@ -100,7 +100,15 @@ function Footer() {
   const { size } = typography;
 
   return (
-    <MDBox width="100%" display="flex" justifyContent="center" alignItems="center" px={1.5} py={2}>
+    <MDBox
+      width="100%"
+      display="flex"
+      flexDirection="column" // 👈 THIS IS THE FIX
+      justifyContent="center"
+      alignItems="center"
+      px={1.5}
+      py={2}
+    >
       <MDTypography
         variant="button"
         fontWeight="regular"
@@ -109,6 +117,17 @@ function Footer() {
         textAlign="center"
       >
         © {new Date().getFullYear()} UIDAI Analytics Dashboard ProtoType
+      </MDTypography>
+
+      <MDTypography
+        variant="caption"
+        sx={{
+          color: "error.main",
+          mt: 0.5, // spacing between lines
+          textAlign: "center",
+        }}
+      >
+        Proof-of-concept dashboard for demonstration purposes only.
       </MDTypography>
     </MDBox>
   );
