@@ -1,6 +1,7 @@
 # [UIDAI Aadhaar Analytical DashBoard](https://rkthunder07.github.io/Aadhaar-Analytics-Dashboard-/#/)
 
 <img width="1896" height="913" alt="image" src="https://github.com/user-attachments/assets/5b584cdc-316a-4810-a0c3-bd20844da090" />
+<img width="1898" height="862" alt="image" src="https://github.com/user-attachments/assets/713541e1-9b80-4c3e-bbbc-ce5bd0a2775e" />
 
 
 Within the download you'll find the following directories and files:
